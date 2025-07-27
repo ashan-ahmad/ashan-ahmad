@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://./me.png" alt="Ashan Ahmad" width="150" height="150" style="border-radius:50%;" />
+  <img src="https://github.com/ashan-ahmad/ashan-ahmad/blob/main/me.png" alt="Ashan Ahmad" width="150" height="150" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi there, I'm Ashan Ahmad 👋</h1>
