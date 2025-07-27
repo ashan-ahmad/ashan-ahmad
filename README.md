@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ashan-ahmad/ashan-ahmad/blob/main/pic.png" alt="Ashan Ahmad" width="200" style="border-radius: 50%; border: 2px solid #ccc; object-fit: cover; aspect-ratio: 1 / 1;" />
+  <img src="https://github.com/ashan-ahmad/ashan-ahmad/blob/main/me.png" alt="Ashan Ahmad" width="300" height="300" style="border-radius:50%;" />
 </p>
 
 <h1 align="center">Hi there, I'm Ashan Ahmad 👋</h1>
