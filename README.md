@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://./me.png" alt="Ashan Ahmad" width="150" height="150" style="border-radius:50%;" />
+</p>
+
 <h1 align="center">Hi there, I'm Ashan Ahmad 👋</h1>
 
 <p align="center">
@@ -23,7 +27,6 @@
 
 ### 🧰 Tech Stack
 
-<!-- Tools/Techs logos from SimpleIcons.dev -->
 <p align="left">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
@@ -67,7 +70,7 @@
   <a href="https://www.linkedin.com/in/ashan-ahmad" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:ashan.email@example.com">
+  <a href="mailto:ashanahmad469@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/ashan-ahmad" target="_blank">
