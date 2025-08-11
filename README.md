@@ -5,7 +5,7 @@
 <h1 align="center">Hi there, I'm Ashan Ahmad 👋</h1>
 
 <p align="center">
-  🚀 Electrical Engineer | AI Enthusiast | Embedded Systems & IoT Developer  
+  🚀 Electrical Engineer | AI Engineer | GEN AI Developer | Embedded Systems & IoT Developer  
   💻 Passionate about building intelligent, connected, and sustainable systems
 </p>
 
